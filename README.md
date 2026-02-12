@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003670,100:E9B800&height=230&section=header&text=Choi%20Jae%20Ryung&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=a.k.a%20FiatLux%20%7C%20Let%20There%20Be%20Light&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003670,100:E9B800&height=230&section=header&text=Choi%20Jae%20Ryung&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=a.k.a%20FiatLux%20%7C&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E9B800&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Computer+Science+Undergraduate;Researcher+%7C+Developer)](https://git.io/typing-svg)
