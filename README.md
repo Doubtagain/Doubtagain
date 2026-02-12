@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003670,100:E9B800&height=230&section=header&text=Choi%20Jae%20Ryung&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=a.k.a%20FiatLux%20%7C%20Let%20There%20Be%20Light&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E9B800&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Computer+Science+Undergraduate;Researcher+%7C+Developer+%7C+Problem+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E9B800&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Computer+Science+Undergraduate;Researcher+%7C+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,7 +28,7 @@ Location: South Korea 🇰🇷
 
 | Period | Role | Organization |
 |--------|------|-------------|
-| 2025 ~ | **Korea CSAT Politics & Law Private Problem Creator** | MockingBird Corp. |
+| 2025 ~ | **Korea CSAT Politics & Law Private Problem Creator** | Mockingbird Corp. |
 | 2025 ~ | **Undergraduate Research Student** | Univ. of Suwon VRLAB (Prof. Myeong Won Lee) |
 
 ---
@@ -129,6 +129,16 @@ Location: South Korea 🇰🇷
 
 ---
 
+## 🏅 Baekjoon Online Judge
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jamechoi0325)](https://solved.ac/jamechoi0325)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -147,6 +157,7 @@ Location: South Korea 🇰🇷
 [![Instagram](https://img.shields.io/badge/@zeroone._.djs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zeroone._.djs)
 [![GitHub](https://img.shields.io/badge/@Doubtagain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doubtagain)
 [![GitHub](https://img.shields.io/badge/DoubtagainLab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DoubtagainLab)
+[![Baekjoon](https://img.shields.io/badge/BOJ-jamechoi0325-0076C0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEfSURBVDhPjZI9TsNAEIU3m0hIiIKCA0BLTUNJbUFFQ8MBOAIHoKfkAhQcgIuQgoqagoYGKaJA/Hlmd8debySEPmn19s3s7I/X+aMVD7z34Biz/ZHRCSMb15GPgGvgiOmNx/0hXx96LDVPgHPgWLAKOZvqSR5IWvMUeAA+y5hZbkKPxLoDUu7F+gJ8Az4BM6E+w5fGCVimjjOzGeD0YLz1e7OaHNzCzjjfAnct8rMtLAxXfsBXoYr4AZ4T7kvQDJ0LRTxKxW2gUvOl4rItzfGmBnbPLR5MN/W5k3gDniRvEcBh5k+gFe5bEhOB68An8A5e/RN6k+qfDTQNbdkFPEFZv9yrtvfC7NJ8ky8Hkd2/eTqrjOf/Rfg+w9R7oG4XdaF8QAAAABJRU5ErkJggg==&logoColor=white)](https://www.acmicpc.net/user/jamechoi0325)
 
 </div>
 
