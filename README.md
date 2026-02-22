@@ -20,7 +20,7 @@ University: University of Suwon, Computer Science
 Location: South Korea 🇰🇷
 ```
 
-> 컴퓨터와 관련된 모든 거에 관심을 가져보도록 노력하겠습니다. 성장하는 개발자 최재령입니다.
+> Hi, I'm Interested in Information Security.
 
 ---
 
@@ -38,15 +38,15 @@ Location: South Korea 🇰🇷
 <table>
 <tr>
 <td align="center">🥉</td>
-<td><b>2024 DACON National High School Student AI Contest</b><br/>3rd Prize — DACON</td>
+<td><b>2024 DACON National High School Student AI Contest (TeamCMYK)</b><br/>3rd Prize — DACON</td>
 </tr>
 <tr>
 <td align="center">🏅</td>
-<td><b>The 6th Public Education Data Competition</b><br/>Excellence Award — Ministry of Education (2024)</td>
+<td><b>The 6th Public Education Data Competition (TeamCMYK)</b><br/>Excellence Award — Ministry of Education (2024)</td>
 </tr>
 <tr>
 <td align="center">🎖️</td>
-<td><b>ETRI OpenAPI Contest</b><br/>Honorable Mention — Electronics and Telecommunications Research Institute (2023)</td>
+<td><b>ETRI OpenAPI Contest (TeamCMYK)</b><br/>Honorable Mention — Electronics and Telecommunications Research Institute (2023)</td>
 </tr>
 </table>
 
@@ -72,7 +72,7 @@ Location: South Korea 🇰🇷
 
 | Period | Activity | Details |
 |--------|----------|---------|
-| 2025 | **UCPC Finalist** | Union of Clubs for Programming Contests |
+| 2025 | **UCPC Finalist** (Team 와샌즈아시는구나정말어렵습니다혹시모르시는분들에대해설명해드) | Union of Clubs for Programming Contests |
 | 2025 ~ | **Mobile Frontend Designer** | Project Donggurami |
 | 2023 ~ | **Algorithm Contest Operation HQ** | Kyungmoon High School |
 
