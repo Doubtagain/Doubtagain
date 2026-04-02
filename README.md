@@ -61,7 +61,7 @@ Location: South Korea 🇰🇷
 | Period | Role | Organization |
 |--------|------|-------------|
 | 2026 ~ | **President** | LIKELION UNIV. at Univ. of Suwon (a.k.a FLAG) |
-| 2026 ~ | **President** | Write-Up (InfoSec Club at Univ. of Suwon) |
+| 2026 | **President** | Write-Up (InfoSec Club at Univ. of Suwon) |
 | 2025 ~ 2025 | **Acting President** | Write-Up (InfoSec Club at Univ. of Suwon) |
 
 </details>
